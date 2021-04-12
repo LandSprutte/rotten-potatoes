@@ -2,6 +2,7 @@ import { Button } from "@components/button/Button";
 import Head from "next/head";
 import React from "react";
 import styles from "../styles/Home.module.css";
+import { attributes, react as HomeContent } from "@content/home.md";
 
 export default function Home() {
   return (
@@ -62,6 +63,8 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
+
+      <HomeContent />
 
       <Button label="donger" color="green" />
     </div>
