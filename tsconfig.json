@@ -21,6 +21,7 @@
     "paths": {
       "@components/*": ["components/*"],
       "@content/*": ["content/*"],
+      "@decorators/*": ["decorators/*"],
     } 
   },
   "include": [

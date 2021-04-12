@@ -1,15 +1,10 @@
 ---
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
-cats:
-  - description: "Maru is a Scottish Fold from Japan, and he loves boxes."
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: "Grumpy cat is an American celebrity cat known for her grumpy appearance."
-    name: Grumpy cat (Tardar Sauce)
 ---
 
-Welcome to my awesome page about cats of the internet.
+<Title>Velkommen! 🙋‍♂️</Title>
 
-This page is built with NextJS, and content is managed in Netlify CMS
+Træt af kedelige madpakker og de samme gamle retter til aftensmad? Holder ugens **mealprep** kun 2 dage inden og er du ofte halvvejs i ugen nød til, at købe fastfood 🍔 eller hurtige spaghitteretter 🍝? Så er du kommet til det rette sted!
+
+Med fokus på, at integrere madlavning i hverdagen, fremfor at gøre det til en nødvendighed og pligt. Giver denne applikation dig smagseksplosioner tilbager i hverdagen! 💪

@@ -5,7 +5,7 @@ declare module "*.md" {
 
 declare module "*.md" {
   import React from "react";
-  const react: React.VFC;
+  const react: React.VFC<P>;
   export { react };
 }
 
